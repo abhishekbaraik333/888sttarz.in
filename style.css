@@ -47,14 +47,15 @@
   #mobile-nav.active {
     transform: translateX(0);
   }
-  
 
   h2{
     font-size: 30px;
     font-weight: 700;
   }
-
   
+  article{
+    margin: 20px 0;
+  }
 .toc-container {
   width: 100%;
   overflow: hidden;
