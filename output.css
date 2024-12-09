@@ -657,12 +657,20 @@ video {
   width: 150px;
 }
 
+.w-\[160px\] {
+  width: 160px;
+}
+
 .w-\[80\%\] {
   width: 80%;
 }
 
 .w-full {
   width: 100%;
+}
+
+.w-\[10px\] {
+  width: 10px;
 }
 
 .-translate-x-full {
@@ -849,16 +857,16 @@ video {
   padding-bottom: 1.25rem;
 }
 
+.pb-10 {
+  padding-bottom: 2.5rem;
+}
+
 .pt-1 {
   padding-top: 0.25rem;
 }
 
 .pt-5 {
   padding-top: 1.25rem;
-}
-
-.pb-10 {
-  padding-bottom: 2.5rem;
 }
 
 .text-center {
