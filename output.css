@@ -657,20 +657,12 @@ video {
   width: 150px;
 }
 
-.w-\[160px\] {
-  width: 160px;
-}
-
 .w-\[80\%\] {
   width: 80%;
 }
 
 .w-full {
   width: 100%;
-}
-
-.w-\[10px\] {
-  width: 10px;
 }
 
 .-translate-x-full {
